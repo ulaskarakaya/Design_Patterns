@@ -11,6 +11,7 @@ namespace BridgeDesign_Pattern.Lab_1.Concrete
     {
         public RemoteControl_Tv_A(ILEDTV ledTv) : base(ledTv)
         {
+
         }
 
         public override void On()
